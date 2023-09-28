@@ -1,0 +1,46 @@
+{
+  "propostas": [
+    {
+      "id": 1,
+      "empresa": "ABC Ltda",
+      "operacao": "FGI",
+      "valor": 100000,
+      "valor_seguridade": 5000
+    },
+    {
+      "id": 2,
+      "empresa": "Fortune Ltda",
+      "operacao": "Pronampe",
+      "valor": 75000,
+      "valor_seguridade": 3000
+    },
+    {
+      "id": 3,
+      "empresa": "Global Ltda",
+      "operacao": "FAMPE",
+      "valor": 50000,
+      "valor_seguridade": 3000
+    },
+    {
+      "id": 4,
+      "empresa": "XYZ Engenharia Ltda",
+      "operacao": "606",
+      "valor": 250000,
+      "valor_seguridade": 16000
+    },
+    {
+      "id": 5,
+      "empresa": "Max confecções Ltda",
+      "operacao": "734",
+      "valor": 120000,
+      "valor_seguridade": 8300
+    },
+    {
+      "id": 6,
+      "empresa": "Multivix Ltda",
+      "operacao": "Pronampe",
+      "valor": 60000,
+      "valor_seguridade": 3200
+    }
+  ]
+}
